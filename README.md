@@ -4,7 +4,7 @@ A new Flutter package project.
 
 ## Getting Started
 
-这是一个用于获取本地assets配置文件的工具.使用平台Android&&IOS.
+这是一个用于获取本地assets配置文件的工具.
 
 注意此项目已依赖了yaml: ^3.1.0
 
