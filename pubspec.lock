@@ -143,7 +143,7 @@ packages:
     source: hosted
     version: "2.1.0"
   yaml:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: yaml
       url: "https://pub.flutter-io.cn"
