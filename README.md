@@ -8,7 +8,7 @@ A new Flutter package project.
 
 注意此项目已依赖了yaml: ^3.1.0
 
-[github项目主页地址](https://flutter.dev/developing-packages/)
+[github项目主页地址](https://github.com/2628748861/configuration)
 
 使用方法:
 
