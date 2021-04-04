@@ -2,7 +2,7 @@ name: configuration
 description: A new Flutter package.
 version: 0.0.1
 author: frode
-homepage:
+homepage: https://github.com/2628748861/configuration
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
