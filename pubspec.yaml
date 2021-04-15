@@ -1,6 +1,6 @@
-name: frode_configuration
+name: yaml_config_reader
 description: A new Flutter package.
-version: 1.0.1
+version: 0.0.1
 homepage: https://github.com/2628748861/configuration
 
 environment:
@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  yaml: ^3.1.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  yaml: ^3.1.0
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
