@@ -29,7 +29,6 @@ flutter run --release
 ```
 dependencies:
   yaml_config_reader: xx
-  yaml: ^3.x.x
 ```
 
 ## 使用方法
